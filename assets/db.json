@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "icons": "assets/images/App_Development-512.png",
+        "heading": "Mobile App Development",
+        "lists": [
+            {"id":1, "item":"iOS Application"},
+            {"id":2, "item":"Android Application"},
+            {"id":3, "item":"Native Application"},
+            {"id":4, "item":"React Native"},
+            {"id":5, "item":"Hybrid Application"},
+            {"id":6, "item":"Wearables"}
+            ],
+        "title": "Riziliant is your best choice for Mobile App Development Company. We create the Mobile app for Android and iOS that clients love to get their fingers moved on it again and again and grow your business.Our designs are optimized for cross-device use and offer an experience that is immediately accessible. Our expert Mobile App Developers realize your business and chalk out a plan that would enable you to integrate your business on the mobile. We understand the present market patterns and work on the two most in-demand Operating Systems, the Android app development, and the iOS App Development"
+    },
+    {
+        "id": 2,
+        "icons": "assets/images/Web_Design-512.png",
+        "heading": "Web Development",
+        "lists": [
+            {"id":1, "item":"Web Application Development"},
+            {"id":2, "item":"Custome Site Development"},
+            {"id":3, "item":"Ecommerce Development"},
+            {"id":4, "item":"CMS Development"},
+            {"id":5, "item":"Blog / News Development"},
+            {"id":6, "item":"Responsive Design"}
+            
+            ],
+        "title": "Our expert team of Website Developers & Digital Strategistsuse cutting edge technology & best practices to create custom sites that increase user engagement"
+    },
+    {
+        "id": 3,
+        "icons": "assets/images/Marketing-512.png",
+        "heading": "Digital Marketing",
+        "lists": [
+            {"id":1, "item":"PPC Advertising"},
+            {"id":2, "item":"SEO Services"},
+            {"id":3, "item":"Content Marketing"},
+            {"id":4, "item":"Social Media Marketing"},
+            {"id":5, "item":"Reputation Management"}
+            
+            ],
+        "title": "Years of experience working with search engines and different digital marketing initiatives allow us to contribute strategies and ideas that create success for our clients. We are a down-to-earth, personable group who loves to see results. We see ourselves as partners in helping you to achieve success and we make every effort to get you there. We understand that the digital marketing world can be confusing so we aim to guide you through it and help you make good decisions."
+    },
+    {
+        "id": 4,
+        "icons": "assets/images/Illustration-512.png",
+        "heading": "UI/UX Design",
+        "lists": [
+            {"id":1, "item":"Flow Sketches"},
+            {"id":2, "item":"Digital Products"},
+            {"id":3, "item":"Animated Interfaces Demo"},
+            {"id":4, "item":"Custom Icons Sets"},
+            {"id":5, "item":"Illustrations & Character Design"},
+            {"id":6, "item":"Core Pages Wireframes & Design"}
+            ],
+        "title": "User Experience (UX) design is a concept that has many dimensions and primarily concerned with how the product will feel. To solve a specific user problem, a UX designer will explore many different approaches, as any given design problem doesn’t have one single right answer. By identifying verbal/non-verbal stumbling blocks, UX designers refine and iterate to make the “best” user experience."
+    },
+    {
+        "id": 5,
+        "icons": "assets/images/SEO-512.png",
+        "heading": "IOT (Internet of Things)",
+        "lists": [
+            {"id":1, "item":"Healthcare"},
+            {"id":2, "item":"Automotive"},
+            {"id":3, "item":"Retail"},
+            {"id":4, "item":"Energy"},
+            {"id":5, "item":"Manufacturing"},
+            {"id":6, "item":"Construction"}
+            ],
+        "title": "We know that IOT is not merely a hot topic, but a game changer for industries across the spectrum. Taking a step further, at Riziliant, we are engaged in leveraging the potential of IOT in enabling businesses."
+    },
+   
+   
+    {
+        "id": 6,
+        "icons": "assets/images/icon-reputation-management-red.png",
+        "heading": "Reputation Management",
+        "lists": [
+            {"id":1, "item":"Facebook"},
+            {"id":2, "item":"Instagram"},
+            {"id":3, "item":"Snapchat"},
+            {"id":4, "item":"Linkedin"},
+            {"id":5, "item":"YouTube"},
+            {"id":6, "item":"Pinterest"}
+            ],
+        "title": "Our experienced online reputation management services team will build a positive reputation for your business no matter who is searching for your company online – customers, clients or coworkers. We create and highlight positive content and push down damaging negative content so you can control what people see when they search for your brand online. The rise of internet has given birth to a lot of good things along with a few bad things. One such bad aspect of internet is open and blatant criticism. Positive criticism can help you improve your business but if the criticism is more than feedback then you need to take some strong steps. Aspersions, slander comments, negative reviews, professional jealousy and reputation damaging campaign from your competitor or maligned comments from your ex, all these things can cause irreparable damage to your business. When we talk of online reputation for small businesses, we usually think that the only thing at stake is reputation of the company. The irony is that snide remarks, aspersions and malign campaigns not just harm your business but they also cast dark shadows on your individual personality "
+    },
+    {
+        "id": 7,
+        "icons": "assets/images/Branding-512.png",
+        "heading": "Content Writing",
+        "lists": [
+            {"id":1, "item":"Website Copywriting "},
+            {"id":2, "item":"Product Catalogs"},
+            {"id":3, "item":"Web Content Development"},
+            {"id":4, "item":"Marketing Collaterals"},
+            {"id":5, "item":"Corporate Profiles and Brochures"},
+            {"id":6, "item":"Web Sales Letters and Emailers"},
+            {"id":7, "item":"SEO Content Writing Services"}
+            ],
+        "title": "In today’s business world, there is no scope for mistakes. Keeping this in mind our Content management team always delivers content with perfection. A good content always drive client towards a business. More precisely content of the business website or portal forms the very basic interface with customer and the company. Therefore a good content is very important for maintaining goodwill of a company. Riziliant, the team of focused and professional content writers will first of all analyze and research your website. Riziliant understands the market and potential of clients and therefore approaches in right direction of creating or recreating your website content"
+    },
+    {
+        "id": 8,
+        "icons": "assets/images/Marketing-512.png",
+        "heading": "PPC Management",
+        "lists": [
+            {"id":1, "item":"PPC Advertising"},
+            {"id":2, "item":"PPC Keyword Research"},
+            {"id":3, "item":"Managing Your PPC Campaigns"},
+            {"id":4, "item":"Google AdWords"},
+            {"id":5, "item":"Bing Advertising"},
+            {"id":6, "item":"Shopping Ads Management"}
+            ],
+        "title": "Searching for a trusted PPC advertising service provider. If yes, then Riziliant is the right name to get PPC advertising services. We always follow PPC advertising correctly, which has allowed us to earn 100% client satisfaction.We don't create campaigns based on just the black box tools or software. Instead, we communicate to a sound researched, thoroughly relevant audience with firm focus on delivering more conversions for less spend"
+    }
+   
+   
+]
